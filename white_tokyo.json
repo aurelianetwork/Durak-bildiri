@@ -1,0 +1,921 @@
+{
+    "info": {
+        "name": {
+            "default": "whitexvx_tokyo",
+            "matchQueue": []
+        },
+        "author": {
+            "default": "tokyo_________",
+            "matchQueue": []
+        },
+        "description": {
+            "default": "",
+            "matchQueue": []
+        },
+        "versionCode": 0,
+        "versionName": "1.0"
+    },
+    "layers": [
+        {
+            "name": "New Control Layer",
+            "uuid": "cfc2c355741c",
+            "hide": false,
+            "visibilityType": "always",
+            "normalButtons": [
+                {
+                    "text": {
+                        "default": "7",
+                        "matchQueue": []
+                    },
+                    "uuid": "3c6bfdbc51414a7486",
+                    "position": {
+                        "x": 9426,
+                        "y": 2296
+                    },
+                    "buttonSize": {
+                        "type": "percentage",
+                        "widthDp": 50.0,
+                        "heightDp": 50.0,
+                        "widthPercentage": 1562,
+                        "heightPercentage": 1562,
+                        "widthReference": "screen_height",
+                        "heightReference": "screen_height"
+                    },
+                    "buttonStyle": "9b05786559ed",
+                    "visibilityType": "always",
+                    "clickEvents": [
+                        {
+                            "type": "key",
+                            "key": "GLFW_KEY_7"
+                        }
+                    ],
+                    "isSwipple": false,
+                    "isPenetrable": false,
+                    "isToggleable": false
+                },
+                {
+                    "text": {
+                        "default": "9",
+                        "matchQueue": []
+                    },
+                    "uuid": "e9177448c52d440b8c",
+                    "position": {
+                        "x": 9426,
+                        "y": 6006
+                    },
+                    "buttonSize": {
+                        "type": "percentage",
+                        "widthDp": 50.0,
+                        "heightDp": 50.0,
+                        "widthPercentage": 1562,
+                        "heightPercentage": 1562,
+                        "widthReference": "screen_height",
+                        "heightReference": "screen_height"
+                    },
+                    "buttonStyle": "9b05786559ed",
+                    "visibilityType": "always",
+                    "clickEvents": [
+                        {
+                            "type": "key",
+                            "key": "GLFW_KEY_9"
+                        }
+                    ],
+                    "isSwipple": true,
+                    "isPenetrable": false,
+                    "isToggleable": false
+                },
+                {
+                    "text": {
+                        "default": "3",
+                        "matchQueue": []
+                    },
+                    "uuid": "0c349d8bb4ad4c219c",
+                    "position": {
+                        "x": 7894,
+                        "y": 6006
+                    },
+                    "buttonSize": {
+                        "type": "percentage",
+                        "widthDp": 50.0,
+                        "heightDp": 50.0,
+                        "widthPercentage": 1562,
+                        "heightPercentage": 1562,
+                        "widthReference": "screen_height",
+                        "heightReference": "screen_height"
+                    },
+                    "buttonStyle": "9b05786559ed",
+                    "visibilityType": "always",
+                    "clickEvents": [
+                        {
+                            "type": "key",
+                            "key": "GLFW_KEY_3"
+                        }
+                    ],
+                    "isSwipple": true,
+                    "isPenetrable": false,
+                    "isToggleable": false
+                },
+                {
+                    "text": {
+                        "default": "2",
+                        "matchQueue": []
+                    },
+                    "uuid": "5e195ab3e06a4af585",
+                    "position": {
+                        "x": 7894,
+                        "y": 4151
+                    },
+                    "buttonSize": {
+                        "type": "percentage",
+                        "widthDp": 50.0,
+                        "heightDp": 50.0,
+                        "widthPercentage": 1562,
+                        "heightPercentage": 1562,
+                        "widthReference": "screen_height",
+                        "heightReference": "screen_height"
+                    },
+                    "buttonStyle": "9b05786559ed",
+                    "visibilityType": "always",
+                    "clickEvents": [
+                        {
+                            "type": "key",
+                            "key": "GLFW_KEY_2"
+                        }
+                    ],
+                    "isSwipple": true,
+                    "isPenetrable": false,
+                    "isToggleable": false
+                },
+                {
+                    "text": {
+                        "default": "5",
+                        "matchQueue": []
+                    },
+                    "uuid": "fea9135b74bd449b81",
+                    "position": {
+                        "x": 8660,
+                        "y": 4151
+                    },
+                    "buttonSize": {
+                        "type": "percentage",
+                        "widthDp": 50.0,
+                        "heightDp": 50.0,
+                        "widthPercentage": 1562,
+                        "heightPercentage": 1562,
+                        "widthReference": "screen_height",
+                        "heightReference": "screen_height"
+                    },
+                    "buttonStyle": "9b05786559ed",
+                    "visibilityType": "always",
+                    "clickEvents": [
+                        {
+                            "type": "key",
+                            "key": "GLFW_KEY_5"
+                        }
+                    ],
+                    "isSwipple": true,
+                    "isPenetrable": false,
+                    "isToggleable": false
+                },
+                {
+                    "text": {
+                        "default": "4",
+                        "matchQueue": []
+                    },
+                    "uuid": "46ea389741ff408ba7",
+                    "position": {
+                        "x": 8660,
+                        "y": 2297
+                    },
+                    "buttonSize": {
+                        "type": "percentage",
+                        "widthDp": 50.0,
+                        "heightDp": 50.0,
+                        "widthPercentage": 1562,
+                        "heightPercentage": 1562,
+                        "widthReference": "screen_height",
+                        "heightReference": "screen_height"
+                    },
+                    "buttonStyle": "9b05786559ed",
+                    "visibilityType": "always",
+                    "clickEvents": [
+                        {
+                            "type": "key",
+                            "key": "GLFW_KEY_4"
+                        }
+                    ],
+                    "isSwipple": true,
+                    "isPenetrable": false,
+                    "isToggleable": false
+                },
+                {
+                    "text": {
+                        "default": "8",
+                        "matchQueue": []
+                    },
+                    "uuid": "7b2ef5c695c441538b",
+                    "position": {
+                        "x": 9426,
+                        "y": 4151
+                    },
+                    "buttonSize": {
+                        "type": "percentage",
+                        "widthDp": 50.0,
+                        "heightDp": 50.0,
+                        "widthPercentage": 1562,
+                        "heightPercentage": 1562,
+                        "widthReference": "screen_height",
+                        "heightReference": "screen_height"
+                    },
+                    "buttonStyle": "9b05786559ed",
+                    "visibilityType": "always",
+                    "clickEvents": [
+                        {
+                            "type": "key",
+                            "key": "GLFW_KEY_8"
+                        }
+                    ],
+                    "isSwipple": false,
+                    "isPenetrable": false,
+                    "isToggleable": false
+                },
+                {
+                    "text": {
+                        "default": "1",
+                        "matchQueue": []
+                    },
+                    "uuid": "62201d40263440f4b7",
+                    "position": {
+                        "x": 7894,
+                        "y": 2296
+                    },
+                    "buttonSize": {
+                        "type": "percentage",
+                        "widthDp": 50.0,
+                        "heightDp": 50.0,
+                        "widthPercentage": 1562,
+                        "heightPercentage": 1562,
+                        "widthReference": "screen_height",
+                        "heightReference": "screen_height"
+                    },
+                    "buttonStyle": "9b05786559ed",
+                    "visibilityType": "always",
+                    "clickEvents": [
+                        {
+                            "type": "key",
+                            "key": "GLFW_KEY_1"
+                        }
+                    ],
+                    "isSwipple": false,
+                    "isPenetrable": false,
+                    "isToggleable": false
+                },
+                {
+                    "text": {
+                        "default": "ESC",
+                        "matchQueue": []
+                    },
+                    "uuid": "f11497608ab6456c87",
+                    "position": {
+                        "x": 0,
+                        "y": 127
+                    },
+                    "buttonSize": {
+                        "type": "percentage",
+                        "widthDp": 50.0,
+                        "heightDp": 50.0,
+                        "widthPercentage": 1562,
+                        "heightPercentage": 1562,
+                        "widthReference": "screen_height",
+                        "heightReference": "screen_height"
+                    },
+                    "buttonStyle": "9b05786559ed",
+                    "textBold": true,
+                    "visibilityType": "always",
+                    "clickEvents": [
+                        {
+                            "type": "key",
+                            "key": "GLFW_KEY_ESCAPE"
+                        }
+                    ],
+                    "isSwipple": true,
+                    "isPenetrable": false,
+                    "isToggleable": false
+                },
+                {
+                    "text": {
+                        "default": "F3",
+                        "matchQueue": []
+                    },
+                    "uuid": "ab4f3db81afb4cba8c",
+                    "position": {
+                        "x": 1588,
+                        "y": 83
+                    },
+                    "buttonSize": {
+                        "type": "percentage",
+                        "widthDp": 50.0,
+                        "heightDp": 50.0,
+                        "widthPercentage": 1562,
+                        "heightPercentage": 1562,
+                        "widthReference": "screen_height",
+                        "heightReference": "screen_height"
+                    },
+                    "buttonStyle": "9b05786559ed",
+                    "visibilityType": "always",
+                    "clickEvents": [
+                        {
+                            "type": "key",
+                            "key": "GLFW_KEY_F3"
+                        }
+                    ],
+                    "isSwipple": true,
+                    "isPenetrable": false,
+                    "isToggleable": false
+                },
+                {
+                    "text": {
+                        "default": "F5",
+                        "matchQueue": []
+                    },
+                    "uuid": "d7f0e4860ff24bc184",
+                    "position": {
+                        "x": 2356,
+                        "y": 92
+                    },
+                    "buttonSize": {
+                        "type": "percentage",
+                        "widthDp": 50.0,
+                        "heightDp": 50.0,
+                        "widthPercentage": 1562,
+                        "heightPercentage": 1562,
+                        "widthReference": "screen_height",
+                        "heightReference": "screen_height"
+                    },
+                    "buttonStyle": "9b05786559ed",
+                    "textBold": true,
+                    "visibilityType": "always",
+                    "clickEvents": [
+                        {
+                            "type": "key",
+                            "key": "GLFW_KEY_F5"
+                        }
+                    ],
+                    "isSwipple": true,
+                    "isPenetrable": false,
+                    "isToggleable": false
+                },
+                {
+                    "text": {
+                        "default": "KYBRD",
+                        "matchQueue": []
+                    },
+                    "uuid": "0f391891cb9d41fea3",
+                    "position": {
+                        "x": 3118,
+                        "y": 107
+                    },
+                    "buttonSize": {
+                        "type": "percentage",
+                        "widthDp": 50.0,
+                        "heightDp": 50.0,
+                        "widthPercentage": 1562,
+                        "heightPercentage": 1562,
+                        "widthReference": "screen_height",
+                        "heightReference": "screen_height"
+                    },
+                    "buttonStyle": "9b05786559ed",
+                    "visibilityType": "always",
+                    "clickEvents": [
+                        {
+                            "type": "launcher_event",
+                            "key": "launcher.event.switch_ime"
+                        }
+                    ],
+                    "isSwipple": true,
+                    "isPenetrable": false,
+                    "isToggleable": false
+                },
+                {
+                    "text": {
+                        "default": "6",
+                        "matchQueue": []
+                    },
+                    "uuid": "bf1b763ef4cc44e183",
+                    "position": {
+                        "x": 8660,
+                        "y": 6006
+                    },
+                    "buttonSize": {
+                        "type": "percentage",
+                        "widthDp": 50.0,
+                        "heightDp": 50.0,
+                        "widthPercentage": 1562,
+                        "heightPercentage": 1562,
+                        "widthReference": "screen_height",
+                        "heightReference": "screen_height"
+                    },
+                    "buttonStyle": "9b05786559ed",
+                    "visibilityType": "always",
+                    "clickEvents": [
+                        {
+                            "type": "key",
+                            "key": "GLFW_KEY_6"
+                        }
+                    ],
+                    "isSwipple": false,
+                    "isPenetrable": false,
+                    "isToggleable": false
+                },
+                {
+                    "text": {
+                        "default": "",
+                        "matchQueue": []
+                    },
+                    "uuid": "89ac016cb7c04ace98",
+                    "position": {
+                        "x": 9906,
+                        "y": 0
+                    },
+                    "buttonSize": {
+                        "type": "percentage",
+                        "widthDp": 50.0,
+                        "heightDp": 50.0,
+                        "widthPercentage": 1562,
+                        "heightPercentage": 1562,
+                        "widthReference": "screen_height",
+                        "heightReference": "screen_height"
+                    },
+                    "buttonStyle": "9b05786559ed",
+                    "visibilityType": "always",
+                    "clickEvents": [
+                        {
+                            "type": "key",
+                            "key": "GLFW_KEY_G"
+                        }
+                    ],
+                    "isSwipple": true,
+                    "isPenetrable": false,
+                    "isToggleable": false
+                },
+                {
+                    "text": {
+                        "default": "Z",
+                        "matchQueue": []
+                    },
+                    "uuid": "f526a2fc4e344bc8a1",
+                    "position": {
+                        "x": 9147,
+                        "y": 0
+                    },
+                    "buttonSize": {
+                        "type": "percentage",
+                        "widthDp": 50.0,
+                        "heightDp": 50.0,
+                        "widthPercentage": 1562,
+                        "heightPercentage": 1562,
+                        "widthReference": "screen_height",
+                        "heightReference": "screen_height"
+                    },
+                    "buttonStyle": "9b05786559ed",
+                    "visibilityType": "always",
+                    "clickEvents": [
+                        {
+                            "type": "key",
+                            "key": "GLFW_KEY_Z"
+                        }
+                    ],
+                    "isSwipple": true,
+                    "isPenetrable": false,
+                    "isToggleable": false
+                },
+                {
+                    "text": {
+                        "default": "",
+                        "matchQueue": []
+                    },
+                    "uuid": "5ade538cf46b4fc28d",
+                    "position": {
+                        "x": 6085,
+                        "y": 3018
+                    },
+                    "buttonSize": {
+                        "type": "percentage",
+                        "widthDp": 50.0,
+                        "heightDp": 50.0,
+                        "widthPercentage": 1972,
+                        "heightPercentage": 3583,
+                        "widthReference": "screen_height",
+                        "heightReference": "screen_height"
+                    },
+                    "buttonStyle": "9b05786559ed",
+                    "visibilityType": "always",
+                    "clickEvents": [
+                        {
+                            "type": "launcher_event",
+                            "key": "GLFW_MOUSE_BUTTON_LEFT"
+                        }
+                    ],
+                    "isSwipple": false,
+                    "isPenetrable": false,
+                    "isToggleable": false
+                },
+                {
+                    "text": {
+                        "default": "",
+                        "matchQueue": []
+                    },
+                    "uuid": "400b92e373d1448eb9",
+                    "position": {
+                        "x": 2181,
+                        "y": 5057
+                    },
+                    "buttonSize": {
+                        "type": "percentage",
+                        "widthDp": 50.0,
+                        "heightDp": 50.0,
+                        "widthPercentage": 3491,
+                        "heightPercentage": 1185,
+                        "widthReference": "screen_height",
+                        "heightReference": "screen_height"
+                    },
+                    "buttonStyle": "9b05786559ed",
+                    "visibilityType": "always",
+                    "clickEvents": [
+                        {
+                            "type": "key",
+                            "key": "GLFW_KEY_E"
+                        }
+                    ],
+                    "isSwipple": false,
+                    "isPenetrable": false,
+                    "isToggleable": false
+                },
+                {
+                    "text": {
+                        "default": "",
+                        "matchQueue": []
+                    },
+                    "uuid": "66432a52689444518b",
+                    "position": {
+                        "x": 7070,
+                        "y": 3018
+                    },
+                    "buttonSize": {
+                        "type": "percentage",
+                        "widthDp": 50.0,
+                        "heightDp": 50.0,
+                        "widthPercentage": 1972,
+                        "heightPercentage": 3583,
+                        "widthReference": "screen_height",
+                        "heightReference": "screen_height"
+                    },
+                    "buttonStyle": "dedb29c5f108",
+                    "visibilityType": "always",
+                    "clickEvents": [
+                        {
+                            "type": "launcher_event",
+                            "key": "GLFW_MOUSE_BUTTON_RIGHT"
+                        }
+                    ],
+                    "isSwipple": true,
+                    "isPenetrable": false,
+                    "isToggleable": false
+                },
+                {
+                    "text": {
+                        "default": "",
+                        "matchQueue": []
+                    },
+                    "uuid": "eafbf06212b94b10a7",
+                    "position": {
+                        "x": 1976,
+                        "y": 2302
+                    },
+                    "buttonSize": {
+                        "type": "percentage",
+                        "widthDp": 50.0,
+                        "heightDp": 50.0,
+                        "widthPercentage": 1759,
+                        "heightPercentage": 2796,
+                        "widthReference": "screen_height",
+                        "heightReference": "screen_height"
+                    },
+                    "buttonStyle": "9b05786559ed",
+                    "visibilityType": "always",
+                    "clickEvents": [
+                        {
+                            "type": "key",
+                            "key": "GLFW_KEY_SPACE"
+                        }
+                    ],
+                    "isSwipple": false,
+                    "isPenetrable": false,
+                    "isToggleable": false
+                },
+                {
+                    "text": {
+                        "default": "",
+                        "matchQueue": []
+                    },
+                    "uuid": "7162879898214a19b4",
+                    "position": {
+                        "x": 2840,
+                        "y": 2299
+                    },
+                    "buttonSize": {
+                        "type": "percentage",
+                        "widthDp": 50.0,
+                        "heightDp": 50.0,
+                        "widthPercentage": 1759,
+                        "heightPercentage": 2796,
+                        "widthReference": "screen_height",
+                        "heightReference": "screen_height"
+                    },
+                    "buttonStyle": "9b05786559ed",
+                    "visibilityType": "always",
+                    "clickEvents": [
+                        {
+                            "type": "key",
+                            "key": "GLFW_KEY_LEFT_SHIFT"
+                        }
+                    ],
+                    "isSwipple": false,
+                    "isPenetrable": false,
+                    "isToggleable": false
+                },
+                {
+                    "text": {
+                        "default": "",
+                        "matchQueue": []
+                    },
+                    "uuid": "a8e341a2db814f8990",
+                    "position": {
+                        "x": 8398,
+                        "y": 0
+                    },
+                    "buttonSize": {
+                        "type": "percentage",
+                        "widthDp": 50.0,
+                        "heightDp": 50.0,
+                        "widthPercentage": 1562,
+                        "heightPercentage": 1562,
+                        "widthReference": "screen_height",
+                        "heightReference": "screen_height"
+                    },
+                    "buttonStyle": "9b05786559ed",
+                    "visibilityType": "always",
+                    "clickEvents": [
+                        {
+                            "type": "key",
+                            "key": "GLFW_KEY_LEFT_CONTROL"
+                        }
+                    ],
+                    "isSwipple": true,
+                    "isPenetrable": false,
+                    "isToggleable": false
+                },
+                {
+                    "text": {
+                        "default": "",
+                        "matchQueue": []
+                    },
+                    "uuid": "4f88e2e7604a402fbe",
+                    "position": {
+                        "x": 7637,
+                        "y": 4
+                    },
+                    "buttonSize": {
+                        "type": "percentage",
+                        "widthDp": 50.0,
+                        "heightDp": 50.0,
+                        "widthPercentage": 1562,
+                        "heightPercentage": 1562,
+                        "widthReference": "screen_height",
+                        "heightReference": "screen_height"
+                    },
+                    "buttonStyle": "9b05786559ed",
+                    "visibilityType": "always",
+                    "clickEvents": [
+                        {
+                            "type": "key",
+                            "key": "GLFW_KEY_F4"
+                        }
+                    ],
+                    "isSwipple": true,
+                    "isPenetrable": false,
+                    "isToggleable": false
+                },
+                {
+                    "text": {
+                        "default": "",
+                        "matchQueue": []
+                    },
+                    "uuid": "87a2b62019dc436d91",
+                    "position": {
+                        "x": 6876,
+                        "y": 0
+                    },
+                    "buttonSize": {
+                        "type": "percentage",
+                        "widthDp": 50.0,
+                        "heightDp": 50.0,
+                        "widthPercentage": 1562,
+                        "heightPercentage": 1562,
+                        "widthReference": "screen_height",
+                        "heightReference": "screen_height"
+                    },
+                    "buttonStyle": "9b05786559ed",
+                    "visibilityType": "always",
+                    "clickEvents": [
+                        {
+                            "type": "key",
+                            "key": "GLFW_KEY_Z"
+                        }
+                    ],
+                    "isSwipple": true,
+                    "isPenetrable": false,
+                    "isToggleable": false
+                },
+                {
+                    "text": {
+                        "default": "T",
+                        "matchQueue": []
+                    },
+                    "uuid": "cd243ca8770f463e8b",
+                    "position": {
+                        "x": 3875,
+                        "y": 99
+                    },
+                    "buttonSize": {
+                        "type": "percentage",
+                        "widthDp": 50.0,
+                        "heightDp": 50.0,
+                        "widthPercentage": 1562,
+                        "heightPercentage": 1562,
+                        "widthReference": "screen_height",
+                        "heightReference": "screen_height"
+                    },
+                    "buttonStyle": "9b05786559ed",
+                    "visibilityType": "always",
+                    "clickEvents": [
+                        {
+                            "type": "launcher_event",
+                            "key": "launcher.event.switch_ime"
+                        },
+                        {
+                            "type": "key",
+                            "key": "GLFW_KEY_T"
+                        }
+                    ],
+                    "isSwipple": true,
+                    "isPenetrable": false,
+                    "isToggleable": false
+                }
+            ]
+        }
+    ],
+    "styles": [
+        {
+            "name": "white",
+            "uuid": "dedb29c5f108",
+            "animateSwap": true,
+            "lightStyle": {
+                "alpha": 0.49849182,
+                "pressedAlpha": 0.10453327,
+                "backgroundColor": 0,
+                "pressedBackgroundColor": 814254216,
+                "contentColor": 4294967295,
+                "pressedContentColor": 4294967295,
+                "fontSize": 10,
+                "pressedFontSize": 9,
+                "borderWidth": 1,
+                "pressedBorderWidth": 0,
+                "borderColor": 4294967295,
+                "pressedBorderColor": 4294967295,
+                "borderRadius": {
+                    "topStart": 0.0,
+                    "topEnd": 0.0,
+                    "bottomEnd": 0.0,
+                    "bottomStart": 0.0
+                },
+                "pressedBorderRadius": {
+                    "topStart": 0.0,
+                    "topEnd": 0.0,
+                    "bottomEnd": 0.0,
+                    "bottomStart": 0.0
+                }
+            },
+            "darkStyle": {
+                "alpha": 1.0,
+                "pressedAlpha": 1.0,
+                "backgroundColor": 2147483648,
+                "pressedBackgroundColor": 3012069512,
+                "contentColor": 4294967295,
+                "pressedContentColor": 4294967295,
+                "borderWidth": 0,
+                "pressedBorderWidth": 0,
+                "borderColor": 4294967295,
+                "pressedBorderColor": 4294967295,
+                "borderRadius": {
+                    "topStart": 0.0,
+                    "topEnd": 0.0,
+                    "bottomEnd": 0.0,
+                    "bottomStart": 0.0
+                },
+                "pressedBorderRadius": {
+                    "topStart": 0.0,
+                    "topEnd": 0.0,
+                    "bottomEnd": 0.0,
+                    "bottomStart": 0.0
+                }
+            }
+        },
+        {
+            "name": "whitev",
+            "uuid": "9b05786559ed",
+            "animateSwap": true,
+            "lightStyle": {
+                "alpha": 1.0,
+                "pressedAlpha": 0.55440354,
+                "backgroundColor": 0,
+                "pressedBackgroundColor": 260606088,
+                "contentColor": 4294967295,
+                "pressedContentColor": 4294967295,
+                "fontSize": 10,
+                "pressedFontSize": 9,
+                "borderWidth": 1,
+                "pressedBorderWidth": 0,
+                "borderColor": 4294967295,
+                "pressedBorderColor": 4294967295,
+                "borderRadius": {
+                    "topStart": 0.0,
+                    "topEnd": 0.0,
+                    "bottomEnd": 0.0,
+                    "bottomStart": 0.0
+                },
+                "pressedBorderRadius": {
+                    "topStart": 0.0,
+                    "topEnd": 0.0,
+                    "bottomEnd": 0.0,
+                    "bottomStart": 0.0
+                }
+            },
+            "darkStyle": {
+                "alpha": 1.0,
+                "pressedAlpha": 1.0,
+                "backgroundColor": 2147483648,
+                "pressedBackgroundColor": 3012069512,
+                "contentColor": 4294967295,
+                "pressedContentColor": 4294967295,
+                "borderWidth": 0,
+                "pressedBorderWidth": 0,
+                "borderColor": 4294967295,
+                "pressedBorderColor": 4294967295,
+                "borderRadius": {
+                    "topStart": 0.0,
+                    "topEnd": 0.0,
+                    "bottomEnd": 0.0,
+                    "bottomStart": 0.0
+                },
+                "pressedBorderRadius": {
+                    "topStart": 0.0,
+                    "topEnd": 0.0,
+                    "bottomEnd": 0.0,
+                    "bottomStart": 0.0
+                }
+            }
+        }
+    ],
+    "special": {
+        "joystickStyle": {
+            "uuid": "e27175d4636c",
+            "lightStyle": {
+                "alpha": 1.0,
+                "backgroundColor": 0,
+                "joystickColor": 184549375,
+                "joystickCanLockColor": 2164260608,
+                "joystickLockedColor": 2147548928,
+                "lockMarkColor": 4294967295,
+                "borderWidthRatio": 1,
+                "borderColor": 4294967295,
+                "backgroundShape": 50,
+                "joystickShape": 50,
+                "joystickSize": 0.5
+            },
+            "darkStyle": {
+                "alpha": 1.0,
+                "backgroundColor": 2147483648,
+                "joystickColor": 2164260863,
+                "joystickCanLockColor": 2164260608,
+                "joystickLockedColor": 2147548928,
+                "lockMarkColor": 4294967295,
+                "borderColor": 4294967295,
+                "backgroundShape": 50,
+                "joystickShape": 50,
+                "joystickSize": 0.5
+            }
+        }
+    },
+    "editorVersion": 11
+}
